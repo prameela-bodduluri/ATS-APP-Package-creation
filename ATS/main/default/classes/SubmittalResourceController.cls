@@ -1,4 +1,4 @@
-public class SubmittalResourceController {
+public with sharing class SubmittalResourceController {
 
     @AuraEnabled(cacheable=true)
     public static List<ATSWrapper> fetchResources(Id jobId){

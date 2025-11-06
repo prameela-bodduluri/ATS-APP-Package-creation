@@ -1,4 +1,4 @@
-public class ATSWrapper {
+public with sharing class ATSWrapper {
     
 	private String resourceName;
     private String email;

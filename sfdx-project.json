@@ -19,6 +19,14 @@
       "default": false,
       "package": "ATS Managed Package",
       "versionDescription": "ATS test"
+    },
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "ATS",
+      "default": false,
+      "package": "ATS Managed Package3",
+      "versionDescription": "ATS test"
     }
   ],
   "name": "ATS APP Package creation",
@@ -29,6 +37,9 @@
     "ATS Unlocked Package": "0HoKb000000sXw1KAE",
     "ATS Managed Package": "0HoKb000000sXw6KAE",
     "ATS Managed Package@0.1.0-1": "04tKb0000011N2JIAU",
-    "ATS Managed Package@0.1.0-2": "04tKb0000011N2OIAU"
+    "ATS Managed Package3": "0HoKb000000sXwVKAU",
+    "ATS Managed Package3@0.1.0-1": "04tKb0000011N3MIAU",
+    "ATS Managed Package3@0.1.0-2": "04tKb0000011N3WIAU",
+    "ATS Managed Package3@0.1.0-3": "04tKb0000011N3gIAE"
   }
 }

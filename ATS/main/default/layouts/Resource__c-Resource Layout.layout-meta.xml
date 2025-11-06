@@ -32,10 +32,12 @@
                 <behavior>Edit</behavior>
                 <field>Visa_Status__c</field>
             </layoutItems>
+            <!--
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Address__c</field>
             </layoutItems>
+        -->
             <layoutItems>
                 <behavior>Required</behavior>
                 <field>Expected_Salary__c</field>
