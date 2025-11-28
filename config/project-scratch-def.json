@@ -2,8 +2,11 @@
   "orgName": "Demo company",
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi"],
- 
   "settings": {
+    "customAddressFieldSettings": 
+    { 
+      "enableCustomAddressField": true 
+    },
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
     },
